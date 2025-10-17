@@ -13,5 +13,5 @@ This repository contains exercises and challenges to build strong **core Python 
 ## How to Use
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/30DaysDataScienceChallenge.git
+   git clone https://github.com/AbiralTimalsina/30DaysDataScienceChallenge.git
 
