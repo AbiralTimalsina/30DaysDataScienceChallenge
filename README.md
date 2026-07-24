@@ -15,3 +15,5 @@ This repository contains exercises and challenges to build strong **core Python 
    ```bash
    git clone https://github.com/AbiralTimalsina/30DaysDataScienceChallenge.git
 
+2. Install the dependencies and start using
+
